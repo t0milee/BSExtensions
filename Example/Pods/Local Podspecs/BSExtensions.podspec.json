@@ -1,0 +1,22 @@
+{
+  "name": "BSExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of BSExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/t0milee/BSExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "t0milee": "tomislav.jankovic@bstorm.co"
+  },
+  "source": {
+    "git": "https://github.com/t0milee/BSExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BSExtensions/Classes/**/*"
+}

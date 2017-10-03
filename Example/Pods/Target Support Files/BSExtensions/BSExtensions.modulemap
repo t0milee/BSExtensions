@@ -1,0 +1,6 @@
+framework module BSExtensions {
+  umbrella header "BSExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
