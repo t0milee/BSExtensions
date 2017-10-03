@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BSExtensions_Tests' do
+  pod 'BSExtensions', :path => '../'
+  
+  
+end
